@@ -1,0 +1,15 @@
+C:\Users\Никита\Desktop\Example\example001_new\bin\Debug\net6.0\example001_new.exe
+C:\Users\Никита\Desktop\Example\example001_new\bin\Debug\net6.0\example001_new.deps.json
+C:\Users\Никита\Desktop\Example\example001_new\bin\Debug\net6.0\example001_new.runtimeconfig.json
+C:\Users\Никита\Desktop\Example\example001_new\bin\Debug\net6.0\example001_new.dll
+C:\Users\Никита\Desktop\Example\example001_new\bin\Debug\net6.0\ref\example001_new.dll
+C:\Users\Никита\Desktop\Example\example001_new\bin\Debug\net6.0\example001_new.pdb
+C:\Users\Никита\Desktop\Example\example001_new\obj\Debug\net6.0\example001_new.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\Example\example001_new\obj\Debug\net6.0\example001_new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\Desktop\Example\example001_new\obj\Debug\net6.0\example001_new.AssemblyInfoInputs.cache
+C:\Users\Никита\Desktop\Example\example001_new\obj\Debug\net6.0\example001_new.AssemblyInfo.cs
+C:\Users\Никита\Desktop\Example\example001_new\obj\Debug\net6.0\example001_new.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\Example\example001_new\obj\Debug\net6.0\example001_new.dll
+C:\Users\Никита\Desktop\Example\example001_new\obj\Debug\net6.0\ref\example001_new.dll
+C:\Users\Никита\Desktop\Example\example001_new\obj\Debug\net6.0\example001_new.pdb
+C:\Users\Никита\Desktop\Example\example001_new\obj\Debug\net6.0\example001_new.genruntimeconfig.cache
