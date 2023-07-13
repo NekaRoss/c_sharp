@@ -1,0 +1,15 @@
+C:\Users\Никита\Desktop\Example\texts_1\bin\Debug\net6.0\texts_1.exe
+C:\Users\Никита\Desktop\Example\texts_1\bin\Debug\net6.0\texts_1.deps.json
+C:\Users\Никита\Desktop\Example\texts_1\bin\Debug\net6.0\texts_1.runtimeconfig.json
+C:\Users\Никита\Desktop\Example\texts_1\bin\Debug\net6.0\texts_1.dll
+C:\Users\Никита\Desktop\Example\texts_1\bin\Debug\net6.0\ref\texts_1.dll
+C:\Users\Никита\Desktop\Example\texts_1\bin\Debug\net6.0\texts_1.pdb
+C:\Users\Никита\Desktop\Example\texts_1\obj\Debug\net6.0\texts_1.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\Example\texts_1\obj\Debug\net6.0\texts_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\Desktop\Example\texts_1\obj\Debug\net6.0\texts_1.AssemblyInfoInputs.cache
+C:\Users\Никита\Desktop\Example\texts_1\obj\Debug\net6.0\texts_1.AssemblyInfo.cs
+C:\Users\Никита\Desktop\Example\texts_1\obj\Debug\net6.0\texts_1.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\Example\texts_1\obj\Debug\net6.0\texts_1.dll
+C:\Users\Никита\Desktop\Example\texts_1\obj\Debug\net6.0\ref\texts_1.dll
+C:\Users\Никита\Desktop\Example\texts_1\obj\Debug\net6.0\texts_1.pdb
+C:\Users\Никита\Desktop\Example\texts_1\obj\Debug\net6.0\texts_1.genruntimeconfig.cache
